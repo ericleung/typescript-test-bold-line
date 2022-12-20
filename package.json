@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@types/three": "^0.144.0",
+    "lodash-es": "^4.17.21",
+    "three": "^0.144.0"
+  }
+}
